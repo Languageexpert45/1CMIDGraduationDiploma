@@ -11,4 +11,5 @@
     <picture>CommonPicture.СостояниеПользователя18</picture>
   </picture>
   <content>Catalog.ДоговорыКонтрагентов</content>
+  <content>Document.ВКМ_ОбслуживаниеКлиента</content>
 </mdclass:Subsystem>
