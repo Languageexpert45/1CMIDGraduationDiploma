@@ -12,4 +12,7 @@
   </picture>
   <content>Catalog.ДоговорыКонтрагентов</content>
   <content>Document.ВКМ_ОбслуживаниеКлиента</content>
+  <content>AccumulationRegister.ВКМ_ВыполненныеСотрудникомРаботы</content>
+  <content>AccumulationRegister.ВКМ_ВзаиморасчетыССотрудниками</content>
+  <content>InformationRegister.ВКМ_УсловияОплатыСотрудников</content>
 </mdclass:Subsystem>

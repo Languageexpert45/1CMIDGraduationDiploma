@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="8c78ee4a-be5b-4858-ba73-3af074efa72f">
+  <producedTypes>
+    <objectType typeId="0866e031-805b-4877-9040-9377554f83e2" valueTypeId="bcd6bd9b-3340-486b-b0b3-8f281473898e"/>
+    <refType typeId="dac29bff-d0e2-4225-8db4-4da61324310e" valueTypeId="4b480599-c67c-43df-b69a-55d316943164"/>
+    <selectionType typeId="c75d6103-c78a-477c-bffb-9ce9b4a71cca" valueTypeId="c60a70d6-3077-43c0-91e5-c3e39a22c114"/>
+    <listType typeId="af03a32e-80bf-48a2-8ba5-457b296b424c" valueTypeId="76503dcd-77b0-43ad-83e6-db24d02b2b42"/>
+    <managerType typeId="b9af89c5-deaf-4899-b8ca-97b5db5b954b" valueTypeId="83b37db4-39c9-45e6-9b85-e0d9a511866f"/>
+  </producedTypes>
+  <name>ВКМ_УведомленияТГБоту</name>
+  <synonym>
+    <key>ru</key>
+    <value>Уведомления ТГ Боту</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <objectPresentation>
+    <key>ru</key>
+    <value>Уведомление ТГ Боту</value>
+  </objectPresentation>
+  <listPresentation>
+    <key>ru</key>
+    <value>Уведомления ТГ Боту</value>
+  </listPresentation>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
