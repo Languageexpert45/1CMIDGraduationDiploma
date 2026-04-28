@@ -17,4 +17,5 @@
   <content>CalculationRegister.ВКМ_ОсновныеНачисления</content>
   <content>CalculationRegister.ВКМ_Удержания</content>
   <content>Catalog.ВКМ_УведомленияТГБоту</content>
+  <content>CalculationRegister.ВКМ_ДополнительныеНачисления</content>
 </mdclass:Subsystem>

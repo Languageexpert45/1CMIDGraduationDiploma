@@ -15,4 +15,10 @@
   <content>AccumulationRegister.ВКМ_ВыполненныеСотрудникомРаботы</content>
   <content>AccumulationRegister.ВКМ_ВзаиморасчетыССотрудниками</content>
   <content>InformationRegister.ВКМ_УсловияОплатыСотрудников</content>
+  <content>Constant.ВКМ_ИдентификаторГруппыДляОповещения</content>
+  <content>Constant.ВКМ_ТокенУправленияТГБотом</content>
+  <content>CommonModule.ВКМ_Телеграмм</content>
+  <content>ScheduledJob.ВКМ_УведомленияТГБот</content>
+  <content>DataProcessor.ВКМ_МассовоеСозданиеАктов</content>
+  <content>Role.ВКМ_РаботаСМассовымСозданиемАктов</content>
 </mdclass:Subsystem>
