@@ -32,7 +32,6 @@
   <checkUnique>true</checkUnique>
   <autonumbering>true</autonumbering>
   <defaultObjectForm>Document.ВКМ_ГрафикОтпусков.Form.ВКМ_ФормаДокумента</defaultObjectForm>
-  <defaultListForm>Document.ВКМ_ГрафикОтпусков.Form.ВКМ_АнализГрафика</defaultListForm>
   <registerRecords>AccumulationRegister.ВКМ_УчетОтпусков</registerRecords>
   <postInPrivilegedMode>true</postInPrivilegedMode>
   <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
@@ -89,7 +88,7 @@
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>
   </forms>
-  <forms uuid="baefa7af-f2c0-4f93-80fe-dbf496a7d3ee">
+  <forms uuid="39bd768f-c56f-4bdf-9751-dd636f37539b">
     <name>ВКМ_АнализГрафика</name>
     <synonym>
       <key>ru</key>
