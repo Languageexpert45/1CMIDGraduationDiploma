@@ -23,4 +23,6 @@
   <content>Role.ВКМ_РаботаСМассовымСозданиемАктов</content>
   <content>AccumulationRegister.ВКМ_ВыполненныеКлиентуРаботы</content>
   <content>Report.ВКМ_АнализВыставленныхАктов</content>
+  <content>Constant.ВКМ_НоменклатураАбонентскаяПлата</content>
+  <content>Constant.ВКМ_НоменклатураРаботыСпециалиста</content>
 </mdclass:Subsystem>

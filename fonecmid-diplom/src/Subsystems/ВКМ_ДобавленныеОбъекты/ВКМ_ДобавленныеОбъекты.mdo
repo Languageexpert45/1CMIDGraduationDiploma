@@ -35,4 +35,6 @@
   <content>Report.ВКМ_АнализВыставленныхАктов</content>
   <content>Report.ВКМ_РасчётыССотрудниками</content>
   <content>Report.ВКМ_РасходЗапланированныхОтпусков</content>
+  <content>Constant.ВКМ_НоменклатураАбонентскаяПлата</content>
+  <content>Constant.ВКМ_НоменклатураРаботыСпециалиста</content>
 </mdclass:Subsystem>
