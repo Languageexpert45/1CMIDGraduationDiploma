@@ -113,7 +113,10 @@
     <legendIsInit>true</legendIsInit>
     <chartIsInit>true</chartIsInit>
     <elementsChart>
-      <right>0.1672</right>
+      <left>0.015513126491646777</left>
+      <right>0.15155131264916466</right>
+      <top>0.011627906976744186</top>
+      <bottom>-0.011627906976744207</bottom>
     </elementsChart>
     <elementsLegend>
       <left>0.8328</left>
@@ -232,7 +235,6 @@
       <mainColor xsi:type="core:ColorDef"/>
       <secondColor xsi:type="core:ColorDef"/>
     </contentCacheItem>
-    <autoText>true</autoText>
   </points>
   <series>
     <value xsi:type="ganttchart:PointDimensionValue">
@@ -242,7 +244,6 @@
       <mainColor xsi:type="core:ColorDef"/>
       <secondColor xsi:type="core:ColorDef"/>
     </contentCacheItem>
-    <autoText>true</autoText>
   </series>
   <drawEmpty>true</drawEmpty>
   <timeScale>
